@@ -1,4 +1,4 @@
-# txii
+# influx
 We're trying to make a single open-source/open-hardware module that functions as both an updated version of the [telex txi](https://github.com/bpcmusic/telex) and as an expander for a commercial module that we are making, Time Machine. That's why files still have "TM" in them.
 
 ![Screen Shot 2023-06-04 at 3 46 06 PM](https://github.com/oamodular/txii/assets/15309/85475984-8fa8-4119-8899-4448e4e688f8)
